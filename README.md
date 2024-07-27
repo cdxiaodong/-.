@@ -1,8 +1,8 @@
 ### README
 
-# Batch File Downloader
+# Arbitrary File Read Exploit Downloader
 
-This script allows you to download files from a list of paths using a URL template. It supports multithreading to download multiple files simultaneously and saves them in a structured directory based on their original paths.
+This script is designed to exploit arbitrary file read vulnerabilities by downloading files from a list of paths using a URL template. It supports multithreading to download multiple files simultaneously and saves them in a structured directory based on their original paths.
 
 ## Features
 - Multithreaded file downloading.
@@ -17,8 +17,8 @@ This script allows you to download files from a list of paths using a URL templa
 ## Installation
 1. Clone the repository or download the script:
     ```bash
-    git clone https://github.com/yourusername/batch-file-downloader.git
-    cd batch-file-downloader
+    git clone https://github.com/yourusername/arbitrary-file-read-exploit-downloader.git
+    cd arbitrary-file-read-exploit-downloader
     ```
 2. Install the required Python libraries:
     ```bash
